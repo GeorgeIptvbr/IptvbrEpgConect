@@ -1,0 +1,97 @@
+﻿[        ] 
+[        ]              WebGrab+Plus/w MDB & REX Postprocess -- version  V2.1              
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 05/06/2018 07:19:42
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.1.7601 Service Pack 1
+[  Debug ] Environment: 4.0.30319.17929
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\Everton\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] found: C:\Users\Everton\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\foxplaybrasil.com.br.ini -- Revision 00
+[  Info  ] input file C:\Users\Everton\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 16 - out of - 16 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX1) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX Action) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX Life) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX Life HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FOX Sports) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Fox Sports 2) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Fox Sports 2 HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Fox Sports HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FX) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=FX HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Nat Geo) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Nat Geo HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Nat Geo Wild HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/16  ) FOXPLAYBRASIL.COM.BR -- chan. (xmltv_id=Nat Geo Wild) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 0 shows in 16 channels
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 05/06/2018 07:19:57 done in 15s
